@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UOttawa Walk-in</string>
+
+    <string-array name="roles">
+        <item>Doctor</item>
+        <item>Nurse</item>
+        <item>Staff</item>
+    </string-array>
+</resources>

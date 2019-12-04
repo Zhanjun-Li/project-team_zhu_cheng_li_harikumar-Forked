@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">36682818316-8fosmucla3avhq6no1gdfsvef9kkmpep.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://uottawa-walk-in.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">36682818316</string>
+    <string name="google_api_key" translatable="false">AIzaSyDfCl7nH5dJN9I-asZNDKPUwz3swPd9TeQ</string>
+    <string name="google_app_id" translatable="false">1:36682818316:android:504b6a1607af07d8279f29</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDfCl7nH5dJN9I-asZNDKPUwz3swPd9TeQ</string>
+    <string name="google_storage_bucket" translatable="false">uottawa-walk-in.appspot.com</string>
+    <string name="project_id" translatable="false">uottawa-walk-in</string>
+</resources>

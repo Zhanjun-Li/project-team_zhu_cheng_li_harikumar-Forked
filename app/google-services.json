@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "36682818316",
+    "firebase_url": "https://uottawa-walk-in.firebaseio.com",
+    "project_id": "uottawa-walk-in",
+    "storage_bucket": "uottawa-walk-in.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36682818316:android:504b6a1607af07d8279f29",
+        "android_client_info": {
+          "package_name": "com.example.uottawawalk_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36682818316-8fosmucla3avhq6no1gdfsvef9kkmpep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfCl7nH5dJN9I-asZNDKPUwz3swPd9TeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36682818316-8fosmucla3avhq6no1gdfsvef9kkmpep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
