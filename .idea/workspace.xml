@@ -129,7 +129,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="700" />
+    <option name="x" value="650" />
+    <option name="y" value="91" />
     <option name="width" value="1140" />
     <option name="height" value="980" />
   </component>
@@ -177,7 +178,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/test/java/com/example/uottawawalk_in" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProductCatalog" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
